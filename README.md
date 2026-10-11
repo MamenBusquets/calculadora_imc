@@ -30,7 +30,7 @@ L'usuari pot introduir el seu nom, seleccionar l'alçada, modificar el pes i cal
 ## Captures de pantalla
 ![Pantalla inicial sense estil](screenshots/calculadora_app_sense_estil.png)
 
-![Funcionament de l'aplicació amb estil aplicat](calculadora_app_estilitzat.png)
+![Funcionament de l'aplicació amb estil aplicat](screenshots/calculadora_app_estilitzat.png)
 
 
 
